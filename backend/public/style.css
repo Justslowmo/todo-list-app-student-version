@@ -6,8 +6,8 @@ body {
 }
 
 button{
-  background: red;
-  max-width: 25px;
+  background: light-blue;
+  max-width: 10px;
   margin: auto;
   padding: 10px;
   border-radius: 8px;

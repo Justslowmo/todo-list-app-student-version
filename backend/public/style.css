@@ -6,11 +6,11 @@ body {
 }
 
 button{
-  background: light-blue;
-  max-width: 10px;
+  background: yellow;
+  max-width: 25px;
   margin: auto;
-  padding: 10px;
-  border-radius: 8px;
+  padding: 8px;
+  border-radius: 4px;
 }
 
 .container {

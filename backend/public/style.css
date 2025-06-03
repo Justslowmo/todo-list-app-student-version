@@ -5,6 +5,10 @@ body {
   padding: 20px;
 }
 
+button{
+  background: 'red';
+}
+
 .container {
   max-width: 500px;
   margin: auto;

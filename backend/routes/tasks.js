@@ -1,8 +1,8 @@
 const express = require("express");
 const router = express.Router();
 // There is a bug in line 4 you need to fix it
-const taskModel = require("../model/taskModel");
-const taskModel = new TaskModel();
+const taskModel = require("../models/taskModel");
+
 //This route retrieves and returns a list of all tasks from the database
 router.get("/", async (req, res) => {
   const tasks = await taskModel.getTasks();
@@ -12,8 +12,8 @@ router.get("/", async (req, res) => {
 // This route receives task data from the client and creates a new task in the database
 router.post("/", async (req, res) => {
   //there is a bug in line 15 you need to fix
-  const { name, description } = req.body;
-  const task = await taskModel.addTask(name, description); // changed title to name i think that was the only way to fix line 15 code
+  const { title, description } = req.body; // changed name to title 
+  const task = await taskModel.addTask(title, description);
   res.status(201).json(task);
 });
 

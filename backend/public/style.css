@@ -6,7 +6,11 @@ body {
 }
 
 button{
-  background: 'red';
+  background: red;
+  max-width: 50px;
+  margin: auto;
+  padding: 10px;
+  border-radius: 8px;
 }
 
 .container {

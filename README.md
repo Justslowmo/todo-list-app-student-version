@@ -1,1 +1,1 @@
-This app is about
+This app is used to create to-do lists. You can write a location and then write what you need from that location; for example, you can write "groceries" in the box that says title, and then write "get egg's" in the box that says description.

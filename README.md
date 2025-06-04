@@ -4,3 +4,9 @@ This app is used to create to-do lists. You can write a location and then write 
 https://todo-list-app-student-version-0q6h.onrender.com/static/
 
 ![IMG_0232](https://github.com/user-attachments/assets/d9aeb108-b06e-449e-a5de-9dd3cf8902bf)
+
+
+
+Team roles:
+Trinity: README, style, Final Deliverables in Google Classroom
+Bryan: Debugging, comments, deployment, Final Deliverables in Google Classroom

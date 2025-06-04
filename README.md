@@ -8,5 +8,7 @@ https://todo-list-app-student-version-0q6h.onrender.com/static/
 
 
 Team roles:
+
 Trinity: README, style, Final Deliverables in Google Classroom
+
 Bryan: Debugging, comments, deployment, Final Deliverables in Google Classroom
